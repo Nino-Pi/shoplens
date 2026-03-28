@@ -1,2 +1,2 @@
 # shoplens
-For shop easier
+For shop easier and better.
